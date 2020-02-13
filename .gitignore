@@ -1,0 +1,3 @@
+# Ignore input data and results
+*.dat
+results
