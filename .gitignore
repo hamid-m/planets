@@ -1,3 +1,4 @@
 # Ignore input data and results
 *.dat
 results
+!a.dat
